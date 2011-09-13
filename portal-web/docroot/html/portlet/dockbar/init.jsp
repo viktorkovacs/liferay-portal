@@ -17,3 +17,5 @@
 <%@ include file="/html/portlet/init.jsp" %>
 
 <%@ page import="com.liferay.portlet.sites.util.SitesUtil" %>
+
+<%@ page import="com.liferay.portal.service.permission.PortalPermissionUtil" %>
